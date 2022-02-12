@@ -1,2 +1,2 @@
 # Links
-<a href="https://jquery.com/download/" target="_blank">Download jQuery </a>
+<a href="https://jquery.com/download/" target="_blank">jQuery Docs</a>
