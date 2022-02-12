@@ -1,2 +1,2 @@
 # Links
-https://jquery.com/download/
+[Download jQuery](https://jquery.com/download/)
